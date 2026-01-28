@@ -9,6 +9,7 @@
 // @match        https://space.bilibili.com/*
 // @match        https://t.bilibili.com/*
 // @icon         https://www.bilibili.com/favicon.ico
+// @require      https://raw.githubusercontent.com/ml0975990/Bilibili-Workshop/refs/heads/main/Bilibili-Workshop.js
 // @grant        GM_addStyle
 // @grant        GM_getValue
 // @grant        GM_setValue
